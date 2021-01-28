@@ -7,5 +7,10 @@ public class Main {
         FactorX.sun = 1;
         FactorX.moon = 3;
         FactorX.planets = 2;
+
+        SUN Freon =  new SUN();
+        Freon.color = "red";
+        Freon.size = "7000km";
+        Freon.temp = "40000c";
     }
 }
